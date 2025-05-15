@@ -392,3 +392,6 @@ document.getElementById('circle').addEventListener('click', () => {
   technologyLeft.style.display = 'none'
   technologyRight.style.display = 'none'
 })
+document.addEventListener('DOMContentLoaded', ()=>{
+  nav1.style.borderBottom = '2px solid white'
+})
