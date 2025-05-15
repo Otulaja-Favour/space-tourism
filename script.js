@@ -379,6 +379,9 @@ document.getElementById('circle').addEventListener('click', () => {
   container.style.backgroundRepeat = 'no-repeat';
 
   moon.style.backgroundColor = 'white'
+  mars.style.backgroundColor = 'transparent'
+  europa.style.backgroundColor = 'transparent'
+  titan.style.backgroundColor = 'transparent'
 
   homeLeft.style.display = 'none'
   homeRight.style.display = 'none'
