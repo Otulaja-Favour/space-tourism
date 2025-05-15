@@ -251,7 +251,8 @@ document.getElementById('per1').addEventListener('click', () => {
   document.getElementById('per4').style.backgroundColor = 'transparent'
 
   cretext.innerHTML = `
-<p>02  MEET YOUR CREW</p>
+            <p id="des">02 MEET YOUR CREW</p>
+
 <p>COMMANDER</p>
 <h1>Douglas Hurley</h1>
 <P>Douglas Gerald Hurley is an American engineer, former Marine Corps pilot and former NASA astronaut. He launched into space for the third time as commander of Crew Dragon Demo-2.</P>
@@ -270,7 +271,8 @@ document.getElementById('per2').addEventListener('click', () => {
   document.getElementById('per3').style.backgroundColor = 'transparent'
   document.getElementById('per4').style.backgroundColor = 'transparent'
   cretext.innerHTML = `
-  <p>02  MEET YOUR CREW</p>
+              <p id="des">02 MEET YOUR CREW</p>
+
   <p>Mission Specialist</p>
   <h1>Mark Shuttleworth</h1>
   <P>
@@ -291,7 +293,8 @@ document.getElementById('per3').addEventListener('click', () => {
   document.getElementById('per1').style.backgroundColor = 'transparent'
   document.getElementById('per4').style.backgroundColor = 'transparent'
   cretext.innerHTML = `
-<p>02  MEET YOUR CREW</p>
+            <p id="des">02 MEET YOUR CREW</p>
+
 <p>Pilot</p>
 <h1>Victor Glover</h1>
 <P>
@@ -311,7 +314,8 @@ document.getElementById('per4').addEventListener('click', () => {
   document.getElementById('per3').style.backgroundColor = 'transparent'
   document.getElementById('per1').style.backgroundColor = 'transparent'
   cretext.innerHTML = `
-<p>02  MEET YOUR CREW</p>
+            <p id="des">02 MEET YOUR CREW</p>
+
 <p>Flight Engineer</p>
 <h1>Anousheh Ansari
 </h1>
