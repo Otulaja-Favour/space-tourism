@@ -8,8 +8,7 @@
 
 .main-container {
     width: 100% !important;
-    background-image: url(./starter-code/assets/home/background-home-desktop.jpg);
-    /* background-color: black; */
+    background-image: url(./assets/home/background-home-desktop.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
