@@ -50,6 +50,8 @@ nav2.addEventListener('click', () => {
   nav1.style.borderBottom = 'none'
   nav3.style.borderBottom = 'none'
   nav4.style.borderBottom = 'none'
+  moon.style.backgroundColor = 'white'
+
 
   container.style.backgroundImage = "url('./assets/destination/background-destination-desktop.jpg')";
   container.style.backgroundSize = 'cover';
