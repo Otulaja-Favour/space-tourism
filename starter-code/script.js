@@ -160,6 +160,7 @@ mars.addEventListener('click', () => {
           
   `
   Text.innerHTML = `
+  <br>
   <h1>Mars</h1>
             <p>Don’t forget to pack your hiking boots. You’ll need them to 
 tackle Olympus Mons, the tallest planetary mountain in our solar system. It’s two and a half times the size of Everest!
@@ -366,7 +367,7 @@ document.getElementById('tech3').addEventListener('click', () => {
     
     `
 })
-document.getElementById('circle').addEventListener('click', ()=>{
+document.getElementById('circle').addEventListener('click', () => {
   nav2.style.borderBottom = '2px solid white'
   nav1.style.borderBottom = 'none'
   nav3.style.borderBottom = 'none'
@@ -377,6 +378,7 @@ document.getElementById('circle').addEventListener('click', ()=>{
   container.style.backgroundPosition = 'center';
   container.style.backgroundRepeat = 'no-repeat';
 
+  moon.style.backgroundColor = 'white'
 
   homeLeft.style.display = 'none'
   homeRight.style.display = 'none'
